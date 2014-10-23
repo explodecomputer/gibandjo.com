@@ -24,5 +24,5 @@ tagline: Supporting tagline
 
 
 <div class="jumbotron top-buffer bottom-buffer">
-  <a href="#" class="btn-infosheet">Download info sheet</a>
+  <a href="/img/infosheet.pdf" class="btn-infosheet">Download info sheet</a>
 </div>

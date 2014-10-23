@@ -19,7 +19,7 @@ at the very latest because the ceremony starts at 1pm.
 
 
 <div class="jumbotron top-buffer bottom-buffer">
-    <a href="#" class="btn-infosheet">Download info sheet</a>
+	<a href="/img/infosheet.pdf" class="btn-infosheet">Download info sheet</a>
 </div>
 
 

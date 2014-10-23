@@ -41,14 +41,9 @@
 
               <div class="nav-collapse collapse center">
                 <ul class="nav">
-<!--                   <li><a href="/gifts.html">Gifts</a></li>
-                  <li><a href="/location.html">Location</a></li>
-                  <li><a href="/rsvp.html">RSVP</a></li>
-                  <li><a href="/schedule.html">Schedule</a></li>
-                  <li><a href="/stories.html">Stories</a></li> -->
-            {% assign pages_list = site.pages %}
-            {% assign group = 'navigation' %}
-            {% include pages_list %}
+{% assign pages_list = site.pages %}
+{% assign group = 'navigation' %}
+{% include pages_list %}
                 </ul>
               </div><!--/.nav-collapse -->
             </div>
@@ -57,14 +52,12 @@
 
 
 
-      <div class="container">
+<div class="container">
 
-      {{ content }}
+{{ content }}
 
-      </div>
-
-    </div>
-
+</div>
+</div>
 
     <!-- Latest compiled and minified JavaScript, requires jQuery 1.x (2.x not supported in IE8) -->
     <!-- Placed at the end of the document so the pages load faster -->

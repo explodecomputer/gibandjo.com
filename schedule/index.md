@@ -32,7 +32,7 @@ at the very latest because the ceremony starts at 1pm.
 During this time a light lunch will be provided. You are welcome to arrive earlier if you wish to spend some time enjoying the natural beauty of the area.
 
 <div class="jumbotron bottom-buffer">
-<img src="/img/donkey.jpg">
+	<img src="/img/donkey.jpg">
 </div>
 
 
@@ -43,7 +43,7 @@ During this time a light lunch will be provided. You are welcome to arrive earli
 The nikah (muslim wedding ceremony) will be delivered by Dr Taj Hargey. Please do not arrive late, as this makes Dr Taj very angry. And when Dr Taj gets angry, men get naked and start flinging the groom around.
 
 <div class="jumbotron bottom-buffer">
-<img src="/img/ceremony.jpg">
+	<img src="/img/ceremony.jpg">
 </div>
 
 
@@ -54,7 +54,7 @@ The nikah (muslim wedding ceremony) will be delivered by Dr Taj Hargey. Please d
 After the nikah ceremony we will celebrate in the only way we know how: Eastern European Jewish folk dance. The Klatsch will be performing live music and will provide instruction on how to execute the very latest traditional folk dancing moves.
 
 <div class="jumbotron bottom-buffer">
-<img src="/img/klezmer.jpg">
+	<img src="/img/klezmer.jpg">
 </div>
 
 
@@ -65,5 +65,5 @@ After the nikah ceremony we will celebrate in the only way we know how: Eastern 
 Following the dancing you will have built up a voracious appetite. To combat this, we will be providing a delicious vegan meal. 
 
 <div class="jumbotron bottom-buffer">
-<img src="/img/food.jpg">
+	<img src="/img/food.jpg">
 </div>

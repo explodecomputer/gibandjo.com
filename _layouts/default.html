@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <title>{{ page.title }}</title>
+    <meta name="description" content="{{ page.description }}">
+    <meta name="author" content="{{ site.author.name }}">
+
+    <!-- Enable responsive viewport -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Bootstrap styles -->
+    <link href="/css/bootstrap.css" rel="stylesheet">
+    <link href="/css/bootstrap-responsive.css" rel="stylesheet">
+    <link href="/css/style.css" rel="stylesheet">
+    <link href='http://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css'>
+    {% for css_name in page.extra_css %}
+    <link rel="stylesheet" href="{{ css_name }}">
+    {% endfor %}
+  </head>
+
+  <body>
+    <div id="wrap">
+      <div class="jumbotron top-buffer bottom-buffer">
+        <a class="text-center" href="/"><img src="/img/logo.png" alt="Gib&Jo" width="200px" /></a>
+      </div>
+
+
+       <nav class="navbar navbar-default center">
+          <div class="navbar-inner">
+            <div class="container-fluid">
+              <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+
+              <div class="nav-collapse collapse center">
+                <ul class="nav">
+<!--                   <li><a href="/gifts.html">Gifts</a></li>
+                  <li><a href="/location.html">Location</a></li>
+                  <li><a href="/rsvp.html">RSVP</a></li>
+                  <li><a href="/schedule.html">Schedule</a></li>
+                  <li><a href="/stories.html">Stories</a></li> -->
+            {% assign pages_list = site.pages %}
+            {% assign group = 'navigation' %}
+            {% include pages_list %}
+                </ul>
+              </div><!--/.nav-collapse -->
+            </div>
+          </div>
+        </nav>
+
+
+
+      <div class="container">
+
+      {{ content }}
+
+      </div>
+
+    </div>
+
+
+    <!-- Latest compiled and minified JavaScript, requires jQuery 1.x (2.x not supported in IE8) -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="/js/jquery.min.js"></script>
+    <script src="/js/bootstrap.min.js"></script>
+  </body>
+</html>
+

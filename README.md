@@ -41,6 +41,7 @@ On server:
 <ctrl+d>
 
 On local:
+
 	git remote add deploy root@explodecomputer.com:~/repo/gibandjo.com.git
 	git push deploy master
 
@@ -49,6 +50,7 @@ See [http://jekyllrb.com/docs/deployment-methods/](http://jekyllrb.com/docs/depl
 ## Using Rake
 
 On local:
+
 	cd ~/repo/gibandjo.com
 	rake deploy
 

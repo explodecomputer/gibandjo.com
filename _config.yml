@@ -1,5 +1,5 @@
 name: Your New Jekyll Site
 markdown: redcarpet
-pygments: true
+highlighter: pygments
 exclude: ['README.md', 'Rakefile']
 url: http://www.gibandjo.com

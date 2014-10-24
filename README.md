@@ -38,7 +38,8 @@ On server:
 	jekyll build -s $TMP_GIT_CLONE -d $PUBLIC_WWW
 	rm -Rf $TMP_GIT_CLONE
 	exit
-<ctrl+d>
+
+Then press `ctrl+d`
 
 On local:
 

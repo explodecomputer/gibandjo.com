@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Gib&Jo
-tagline: Supporting tagline
 ---
 
 <div class="row">

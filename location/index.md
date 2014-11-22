@@ -1,8 +1,7 @@
 ---
 layout: default
 title : Location
-header : Location
-group: navigation
+group: oldsite
 ---
 
 

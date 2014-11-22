@@ -1,8 +1,7 @@
 ---
 layout: default
 title : Schedule
-header : Schedule
-group: navigation
+group: oldsite
 extra_css:
  - /css/center.css
 ---

@@ -9,7 +9,7 @@ group: navigation
 <div id="myAccordion" class="accordion">
 	<div class="accordion-group">
 		<div class="accordion-heading">
-			<a href="#Gibransparents" data-parent="#myAccordion" data-toggle="collapse" class="accordion-toggle text-center accordianheader">Gibran's parents</a>
+			<a href="#Gibransparents" data-parent="#myAccordion" data-toggle="collapse" class="accordion-toggle accordianheader">Gibran's parents</a>
 		</div>
 		<div class="accordion-body collapse" id="Gibransparents">
 			<div class="accordion-inner">
@@ -19,7 +19,7 @@ group: navigation
 	</div>
 	<div class="accordion-group">
 		<div class="accordion-heading">
-			<a href="#Josephinesparents" data-parent="#myAccordion" data-toggle="collapse" class="accordion-toggle text-center accordianheader">Josephine's parents</a>
+			<a href="#Josephinesparents" data-parent="#myAccordion" data-toggle="collapse" class="accordion-toggle accordianheader">Josephine's parents</a>
 		</div>
 		<div class="accordion-body collapse" id="Josephinesparents">
 			<div class="accordion-inner">
@@ -29,7 +29,7 @@ group: navigation
 	</div>
 	<div class="accordion-group">
 		<div class="accordion-heading">
-			<a href="#Arman" data-parent="#myAccordion" data-toggle="collapse" class="accordion-toggle text-center accordianheader">Arman</a>
+			<a href="#Arman" data-parent="#myAccordion" data-toggle="collapse" class="accordion-toggle accordianheader">Arman</a>
 		</div>
 		<div class="accordion-body collapse" id="Arman">
 			<div class="accordion-inner">
@@ -39,7 +39,7 @@ group: navigation
 	</div>
 	<div class="accordion-group">
 		<div class="accordion-heading">
-			<a href="#Noor" data-parent="#myAccordion" data-toggle="collapse" class="accordion-toggle text-center accordianheader">Noor</a>
+			<a href="#Noor" data-parent="#myAccordion" data-toggle="collapse" class="accordion-toggle accordianheader">Noor</a>
 		</div>
 		<div class="accordion-body collapse" id="Noor">
 			<div class="accordion-inner">
@@ -49,7 +49,7 @@ group: navigation
 	</div>
 	<div class="accordion-group">
 		<div class="accordion-heading">
-			<a href="#DerekAnna" data-parent="#myAccordion" data-toggle="collapse" class="accordion-toggle text-center accordianheader">Derek and Anna</a>
+			<a href="#DerekAnna" data-parent="#myAccordion" data-toggle="collapse" class="accordion-toggle accordianheader">Derek and Anna</a>
 		</div>
 		<div class="accordion-body collapse" id="DerekAnna">
 			<div class="accordion-inner">
@@ -59,7 +59,7 @@ group: navigation
 	</div>
 	<div class="accordion-group">
 		<div class="accordion-heading">
-			<a href="#Liz" data-parent="#myAccordion" data-toggle="collapse" class="accordion-toggle text-center accordianheader">Liz</a>
+			<a href="#Liz" data-parent="#myAccordion" data-toggle="collapse" class="accordion-toggle accordianheader">Liz</a>
 		</div>
 		<div class="accordion-body collapse" id="Liz">
 			<div class="accordion-inner">
@@ -69,7 +69,7 @@ group: navigation
 	</div>
 	<div class="accordion-group">
 		<div class="accordion-heading">
-			<a href="#LaurenandCarl" data-parent="#myAccordion" data-toggle="collapse" class="accordion-toggle text-center accordianheader">Lauren and Carl</a>
+			<a href="#LaurenandCarl" data-parent="#myAccordion" data-toggle="collapse" class="accordion-toggle accordianheader">Lauren and Carl</a>
 		</div>
 		<div class="accordion-body collapse" id="LaurenandCarl">
 			<div class="accordion-inner">
@@ -79,7 +79,7 @@ group: navigation
 	</div>
 	<div class="accordion-group">
 		<div class="accordion-heading">
-			<a href="#UncleMasudandEmma" data-parent="#myAccordion" data-toggle="collapse" class="accordion-toggle text-center accordianheader">Uncle Masud and Emma</a>
+			<a href="#UncleMasudandEmma" data-parent="#myAccordion" data-toggle="collapse" class="accordion-toggle accordianheader">Uncle Masud and Emma</a>
 		</div>
 		<div class="accordion-body collapse" id="UncleMasudandEmma">
 			<div class="accordion-inner">
@@ -89,7 +89,7 @@ group: navigation
 	</div>
 	<div class="accordion-group">
 		<div class="accordion-heading">
-			<a href="#IanandAdrienne" data-parent="#myAccordion" data-toggle="collapse" class="accordion-toggle text-center accordianheader">Ian and Adrienne</a>
+			<a href="#IanandAdrienne" data-parent="#myAccordion" data-toggle="collapse" class="accordion-toggle accordianheader">Ian and Adrienne</a>
 		</div>
 		<div class="accordion-body collapse" id="IanandAdrienne">
 			<div class="accordion-inner">
@@ -99,7 +99,7 @@ group: navigation
 	</div>
 	<div class="accordion-group">
 		<div class="accordion-heading">
-			<a href="#ShahidandAfshan" data-parent="#myAccordion" data-toggle="collapse" class="accordion-toggle text-center accordianheader">Shahid and Afshan</a>
+			<a href="#ShahidandAfshan" data-parent="#myAccordion" data-toggle="collapse" class="accordion-toggle accordianheader">Shahid and Afshan</a>
 		</div>
 		<div class="accordion-body collapse" id="ShahidandAfshan">
 			<div class="accordion-inner">
@@ -109,7 +109,7 @@ group: navigation
 	</div>
 	<div class="accordion-group">
 		<div class="accordion-heading">
-			<a href="#MaggieandMargaret" data-parent="#myAccordion" data-toggle="collapse" class="accordion-toggle text-center accordianheader">Maggie and Margaret</a>
+			<a href="#MaggieandMargaret" data-parent="#myAccordion" data-toggle="collapse" class="accordion-toggle accordianheader">Maggie and Margaret</a>
 		</div>
 		<div class="accordion-body collapse" id="MaggieandMargaret">
 			<div class="accordion-inner">
@@ -119,7 +119,7 @@ group: navigation
 	</div>
 	<div class="accordion-group">
 		<div class="accordion-heading">
-			<a href="#Australians" data-parent="#myAccordion" data-toggle="collapse" class="accordion-toggle text-center accordianheader">Sibel, Joseph and Melanie</a>
+			<a href="#Australians" data-parent="#myAccordion" data-toggle="collapse" class="accordion-toggle accordianheader">Sibel, Joseph and Melanie</a>
 		</div>
 		<div class="accordion-body collapse" id="Australians">
 			<div class="accordion-inner">
@@ -129,7 +129,7 @@ group: navigation
 	</div>
 	<div class="accordion-group">
 		<div class="accordion-heading">
-			<a href="#SandraRebeccaMeghanRosamunde" data-parent="#myAccordion" data-toggle="collapse" class="accordion-toggle text-center accordianheader">Sandra, Rebecca, Meghan and Rosamunde</a>
+			<a href="#SandraRebeccaMeghanRosamunde" data-parent="#myAccordion" data-toggle="collapse" class="accordion-toggle accordianheader">Sandra, Rebecca, Meghan and Rosamunde</a>
 		</div>
 		<div class="accordion-body collapse" id="SandraRebeccaMeghanRosamunde">
 			<div class="accordion-inner">
@@ -139,7 +139,7 @@ group: navigation
 	</div>
 	<div class="accordion-group">
 		<div class="accordion-heading">
-			<a href="#IrfanandMarta" data-parent="#myAccordion" data-toggle="collapse" class="accordion-toggle text-center accordianheader">Irfan and Marta</a>
+			<a href="#IrfanandMarta" data-parent="#myAccordion" data-toggle="collapse" class="accordion-toggle accordianheader">Irfan and Marta</a>
 		</div>
 		<div class="accordion-body collapse" id="IrfanandMarta">
 			<div class="accordion-inner">
@@ -149,7 +149,7 @@ group: navigation
 	</div>
 	<div class="accordion-group">
 		<div class="accordion-heading">
-			<a href="#KhalaBegum" data-parent="#myAccordion" data-toggle="collapse" class="accordion-toggle text-center accordianheader">Khala Begum</a>
+			<a href="#KhalaBegum" data-parent="#myAccordion" data-toggle="collapse" class="accordion-toggle accordianheader">Khala Begum</a>
 		</div>
 		<div class="accordion-body collapse" id="KhalaBegum">
 			<div class="accordion-inner">
@@ -159,7 +159,7 @@ group: navigation
 	</div>
 	<div class="accordion-group">
 		<div class="accordion-heading">
-			<a href="#Adiba" data-parent="#myAccordion" data-toggle="collapse" class="accordion-toggle text-center accordianheader">Adiba</a>
+			<a href="#Adiba" data-parent="#myAccordion" data-toggle="collapse" class="accordion-toggle accordianheader">Adiba</a>
 		</div>
 		<div class="accordion-body collapse" id="Adiba">
 			<div class="accordion-inner">
@@ -169,7 +169,7 @@ group: navigation
 	</div>
 	<div class="accordion-group">
 		<div class="accordion-heading">
-			<a href="#Baji" data-parent="#myAccordion" data-toggle="collapse" class="accordion-toggle text-center accordianheader">Baji</a>
+			<a href="#Baji" data-parent="#myAccordion" data-toggle="collapse" class="accordion-toggle accordianheader">Baji</a>
 		</div>
 		<div class="accordion-body collapse" id="Baji">
 			<div class="accordion-inner">
@@ -179,7 +179,7 @@ group: navigation
 	</div>
 	<div class="accordion-group">
 		<div class="accordion-heading">
-			<a href="#Theweather" data-parent="#myAccordion" data-toggle="collapse" class="accordion-toggle text-center accordianheader">The weather</a>
+			<a href="#Theweather" data-parent="#myAccordion" data-toggle="collapse" class="accordion-toggle accordianheader">The weather</a>
 		</div>
 		<div class="accordion-body collapse" id="Theweather">
 			<div class="accordion-inner">
@@ -189,7 +189,7 @@ group: navigation
 	</div>
 	<div class="accordion-group">
 		<div class="accordion-heading">
-			<a href="#Theinternet" data-parent="#myAccordion" data-toggle="collapse" class="accordion-toggle text-center accordianheader">The internet</a>
+			<a href="#Theinternet" data-parent="#myAccordion" data-toggle="collapse" class="accordion-toggle accordianheader">The internet</a>
 		</div>
 		<div class="accordion-body collapse" id="Theinternet">
 			<div class="accordion-inner">
@@ -205,7 +205,7 @@ group: navigation
 <div id="myAccordion" class="accordion">
 	<div class="accordion-group">
 		<div class="accordion-heading">
-			<a href="#Carolyn" data-parent="#myAccordion" data-toggle="collapse" class="accordion-toggle text-center accordianheader">Lower Damgate Farm</a>
+			<a href="#Carolyn" data-parent="#myAccordion" data-toggle="collapse" class="accordion-toggle accordianheader">Lower Damgate Farm</a>
 		</div>
 		<div class="accordion-body collapse" id="Carolyn">
 			<div class="accordion-inner">
@@ -216,7 +216,7 @@ group: navigation
 
 	<div class="accordion-group">
 		<div class="accordion-heading">
-			<a href="#DrTaj" data-parent="#myAccordion" data-toggle="collapse" class="accordion-toggle text-center accordianheader">Dr Taj</a>
+			<a href="#DrTaj" data-parent="#myAccordion" data-toggle="collapse" class="accordion-toggle accordianheader">Dr Taj</a>
 		</div>
 		<div class="accordion-body collapse" id="DrTaj">
 			<div class="accordion-inner">
@@ -227,7 +227,7 @@ group: navigation
 
 	<div class="accordion-group">
 		<div class="accordion-heading">
-			<a href="#ChangeKitchen" data-parent="#myAccordion" data-toggle="collapse" class="accordion-toggle text-center accordianheader">Change Kitchen</a>
+			<a href="#ChangeKitchen" data-parent="#myAccordion" data-toggle="collapse" class="accordion-toggle accordianheader">Change Kitchen</a>
 		</div>
 		<div class="accordion-body collapse" id="ChangeKitchen">
 			<div class="accordion-inner">
@@ -238,7 +238,7 @@ group: navigation
 
 	<div class="accordion-group">
 		<div class="accordion-heading">
-			<a href="#Lunch" data-parent="#myAccordion" data-toggle="collapse" class="accordion-toggle text-center accordianheader">Lunchtime Caterers</a>
+			<a href="#Lunch" data-parent="#myAccordion" data-toggle="collapse" class="accordion-toggle accordianheader">Good Mood Food</a>
 		</div>
 		<div class="accordion-body collapse" id="Lunch">
 			<div class="accordion-inner">
@@ -249,7 +249,7 @@ group: navigation
 
 	<div class="accordion-group">
 		<div class="accordion-heading">
-			<a href="#Janetheflorist" data-parent="#myAccordion" data-toggle="collapse" class="accordion-toggle text-center accordianheader">Jane the Florist</a>
+			<a href="#Janetheflorist" data-parent="#myAccordion" data-toggle="collapse" class="accordion-toggle accordianheader">Blooming Yorkshire</a>
 		</div>
 		<div class="accordion-body collapse" id="Janetheflorist">
 			<div class="accordion-inner">
@@ -260,7 +260,7 @@ group: navigation
 
 	<div class="accordion-group">
 		<div class="accordion-heading">
-			<a href="#SpotlessLeopard" data-parent="#myAccordion" data-toggle="collapse" class="accordion-toggle text-center accordianheader">The Spotless Leopard</a>
+			<a href="#SpotlessLeopard" data-parent="#myAccordion" data-toggle="collapse" class="accordion-toggle accordianheader">The Spotless Leopard</a>
 		</div>
 		<div class="accordion-body collapse" id="SpotlessLeopard">
 			<div class="accordion-inner">
@@ -271,7 +271,7 @@ group: navigation
 
 	<div class="accordion-group">
 		<div class="accordion-heading">
-			<a href="#TheKlatsch" data-parent="#myAccordion" data-toggle="collapse" class="accordion-toggle text-center accordianheader">The Klatsch</a>
+			<a href="#TheKlatsch" data-parent="#myAccordion" data-toggle="collapse" class="accordion-toggle accordianheader">The Klatsch</a>
 		</div>
 		<div class="accordion-body collapse" id="TheKlatsch">
 			<div class="accordion-inner">

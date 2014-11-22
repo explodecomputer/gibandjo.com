@@ -8,13 +8,10 @@ title: Gib&Jo
 </div>
 <div class="text-center">
 	<h3>Abstract</h3>
-	<p>Following months of discussion ("What even <em>is</em> marriage?") and planning ("What do you actually <em>do</em> at a Jewish-Muslim English-American wedding?"), we hereby declare that we got married. The marriage was executed using a modest three-stage strategy, including a civil ceremony in Bristol, a mehndi in Manchester, and a thing in a barn in the Peak District. Each stage was made possible through the super-human efforts, wisdom, love, and dedication of some very <a href="/special_people/">Special people</a>. We were extremely touched by those who were so kind to honour us with their presence: our friends, our family, people who we knew, people whose existence we were dimly aware of, and Taj's wife's grandmother. It was a wonderful time, thank you!</p>
+	<p>Following months of discussion ("What even <em>is</em> marriage?") and planning ("What do you actually <em>do</em> at a Jewish-Muslim English-American wedding?"), we hereby declare that we got married. The marriage was executed using a modest (by Pakistani standards) / lavish (by American standards) three-stage strategy, which included a civil ceremony in Bristol, a mehndi in Manchester, and a thing in a barn in the Peak District. Each stage was made possible through the super-human efforts, wisdom, love, and dedication of some very special people. We were extremely touched by all of you who were so kind to honour us with your presence: our friends, our family, people who we knew, people whose existence we were dimly aware of, and Taj's wife's grandmother. It was a wonderful time, thank you!</p>
+<h3>Keywords</h3>
+<p>Marriage<br/>On track<br/>Peak district<br/>Mazel tov<br/>Imam<br/>Goats</p>
 </div>
-
-
-### Keywords
-
-Marriage, On track, Peak district, Mazel tov, Imam, Goats
 
 
 ## Introduction

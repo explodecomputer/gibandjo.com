@@ -1,8 +1,19 @@
 ---
-layout: new_frontpage
+layout: default
 title : Special thanks
 group: navigation
 ---
+
+<div class="row">
+	<div class="span4">
+	</div>
+	<div class="span4 text-center">
+		<p>The incredible sacrifices of time and energy, donations of resources, offerings of advice and wisdom, expressions of creativity, and financial generosity that made these events such resounding successes need to be acknowledged and celebrated. We are truly humbled for all your help. We really do not have the words. Thank you.</p>
+	</div>
+	<div class="span4">
+	</div>
+</div>
+
 
 <h1>Family and friends</h1>
 
@@ -23,7 +34,14 @@ group: navigation
 		</div>
 		<div class="accordion-body collapse" id="Josephinesparents">
 			<div class="accordion-inner">
-				<p></p>
+				<div class="row">
+					<div class="span3">
+						<img src="/img/peter_naomi.jpg">
+					</div>
+					<div class="span5">
+					<p></p>
+					</div>
+				</div>
 			</div>
 		</div>
 	</div>
@@ -73,7 +91,14 @@ group: navigation
 		</div>
 		<div class="accordion-body collapse" id="LaurenandCarl">
 			<div class="accordion-inner">
-				<p>Lauren and Carl travelled a long way </p>
+				<div class="row">
+					<div class="span3">
+						<img src="/img/laurencarl.jpg">
+					</div>
+					<div class="span6">
+						<p>You did an amazing job of capturing the events of the mehndi and wedding. A staggering three thousand pictures! There are so many wonderful shots. And then, when we all went for a walk to wind down and relax on Sunday afternoon, your toil still had not finished as you stayed in your room and sorted through the pictures, making backups to make sure that our memories would not be lost. What an incredible thing you did for us. Thank you so much.</p>
+					</div>
+				</div>
 			</div>
 		</div>
 	</div>
@@ -83,7 +108,15 @@ group: navigation
 		</div>
 		<div class="accordion-body collapse" id="UncleMasudandEmma">
 			<div class="accordion-inner">
-				<p>The importation of manual labour from Ireland has a turbulent history in working Britain, but the arrival of Chacha Gee and Emma was met with, not violence and civil unrest, but jubilation and happiness. In an awkwardly similar manner to their historical counterparts, they worked tirelessly in unfavourable conditions, and with little expectation of a fair wage. Thank you for all the help you gave us with the Mehndi and the wedding!</p>
+				<div class="row">
+					<div class="span3">
+						<img src="/img/masud.jpg">
+						<img src="/img/emma.jpg">
+					</div>
+					<div class="span6">
+						<p>The importation of manual labour from Ireland has a turbulent history in working Britain, but the arrival of Chacha Gee and Emma was met with, not violence and civil unrest, but jubilation and happiness. In an a manner alarmingly similar to the experiences of their historical counterparts, they worked tirelessly in unfavourable conditions, and with little expectation of a fair wage. Thank you for all the help you gave us with the mehndi and the wedding!</p>
+					</div>
+				</div>
 			</div>
 		</div>
 	</div>

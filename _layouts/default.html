@@ -64,6 +64,9 @@
     <!-- Placed at the end of the document so the pages load faster -->
     <script src="/js/jquery.min.js"></script>
     <script src="/js/bootstrap.min.js"></script>
+    {% for js_name in page.extra_js %}
+    <script src="{{ js_name }}"></script>
+    {% endfor %}
   </body>
 </html>
 

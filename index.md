@@ -50,6 +50,20 @@ title: Gib&Jo
 
 		<h2>Methods</h2>
 
+		<h3>Civil ceremony</h3>
+		<p><strong>Step 1:</strong> Assuage the suspicions of the civil servant conducting the pre-marriage checks by convincing her that the marriage is not taking place under duress</p>
+		<p><strong>Step 2:</strong> Find suitable attire. Preferably in good time, but last minute is fine. A good tie is crucial.</p>
+		<p><strong>Step 3:</strong> Fight the urge to burst into laughter during the ceremony when the celebrant manages to pronounce the names Gibran Hemani and Josephine Grobstein Walker differently each time she has to mention them.</p>
+		<p><strong>Step 4:</strong> The register is a permanent record of the wedding, so it's important that all the details are correct. Cross out incorrect details and squeeze the right ones in if necessary. Correctness triumphs over neatness.</p>
+		<p><strong>Step 5:</strong> Enjoy delicious vegan food with close family in your new home =]</p>
+
+		<h3>Mehndi</h3>
+		<p><strong>Step 1:</strong> Construct a huge marquee over an apple tree in the backgarden. Decorate with colourful fabric and fairy lights.</p>
+		<p><strong>Step 2:</strong> Furnish with hand made floor cushions and then spend the evening waterproofing from the outside as the rain comes down hard. Ignore the snide remarks from the disgruntled chickens.</p>
+		<p><strong>Step 3:</strong> Invite dozens of people to smear turmuric paste over the faces of the bride and groom. Feed them berries. Eat delicious vegan Indian food</p>
+		<p><strong>Step 4:</strong> Henna. Lots of Henna.</p>
+
+		<h3>Wedding</h3>
 
 
 		<h2>Results</h2>

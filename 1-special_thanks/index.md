@@ -113,8 +113,8 @@ group: navigation
 						<img src="/img/masud.jpg">
 						<img src="/img/emma.jpg">
 					</div>
-					<div class="span6">
-						<p>The importation of manual labour from Ireland has a turbulent history in working Britain, but the arrival of Chacha Gee and Emma was met with, not violence and civil unrest, but jubilation and happiness. In an a manner alarmingly similar to the experiences of their historical counterparts, they worked tirelessly in unfavourable conditions, and with little expectation of a fair wage. Thank you for all the help you gave us with the mehndi and the wedding!</p>
+					<div class="span6" style="vertical-align: middle !important;">
+						<p style="vertical-align: middle !important;">The importation of manual labour from Ireland has a turbulent history in working Britain, but the arrival of Chacha Gee and Emma was met with, not violence and civil unrest, but jubilation and happiness. In an a manner alarmingly similar to the experiences of their historical counterparts, they worked tirelessly in unfavourable conditions, and with little expectation of a fair wage. Thank you for all the help you gave us with the mehndi and the wedding!</p>
 					</div>
 				</div>
 			</div>

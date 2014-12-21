@@ -8,9 +8,18 @@ group: navigation
 	<div class="span4">
 	</div>
 	<div class="span4 text-center">
-		<p>The incredible sacrifices of time and energy, donations of resources, offerings of advice and wisdom, expressions of creativity, and financial generosity that made these events such resounding successes need to be acknowledged and celebrated. We are truly humbled for all your help. We really do not have the words. Thank you.</p>
+		<p>The incredible sacrifices of time and energy, donations of resources, offerings of advice and wisdom, expressions of creativity, and financial generosity that made these events such resounding successes need to be acknowledged and celebrated. We are truly humbled for all your help. We really do not have the words. So we made a picture.</p>
 	</div>
 	<div class="span4">
+	</div>
+</div>
+<div class="row">
+	<div class="span3">
+	</div>
+	<div class="span6 text-center">
+		<img src="/img/thankyou2.jpg">
+	</div>
+	<div class="span3">
 	</div>
 </div>
 

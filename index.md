@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: part2
 title: Gib&Jo
 ---
 

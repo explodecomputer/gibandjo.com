@@ -213,3 +213,38 @@ border: 0;
   padding: 9px 15px;
   border-top: 1px solid #e5e5e5;
 }
+
+.accordion .panel {
+  border-width: 10px;
+}
+.accordion-heading {
+  border-width: 10px;
+}
+
+
+.pageid {
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-family: 'Montserrat', sans-serif;
+  color: grey;
+  border: solid 1px grey;
+  text-align: center;
+  padding: 5px;
+
+  -webkit-border-radius: 15px;
+     -moz-border-radius: 15px;
+          border-radius: 15px;
+}
+
+.pageid:hover {
+  background-color: grey;
+  color: white;
+  text-decoration: none;
+}
+
+
+.pageid.active {
+  background-color: grey;
+  color: white;
+
+}

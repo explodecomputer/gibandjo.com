@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: part1
 title : Schedule
-group: oldsite
+group: part1nav
 extra_css:
  - /css/center.css
 ---

@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: part1
 title : Location
-group: oldsite
+group: part1nav
 ---
 
 

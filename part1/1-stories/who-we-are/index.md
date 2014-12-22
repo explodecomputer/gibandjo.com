@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: part1
 title : Who we are
 ---
 

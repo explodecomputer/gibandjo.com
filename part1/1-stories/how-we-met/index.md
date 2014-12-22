@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: part1
 title : How we met
 ---
 

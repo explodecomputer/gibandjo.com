@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: part2
 title : Photos
-group: navigation
+group: part2nav
 extra_css:
  - /css/lightbox.css
 extra_js:

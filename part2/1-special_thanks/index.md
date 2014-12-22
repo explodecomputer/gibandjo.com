@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: part2
 title : Special thanks
-group: navigation
+group: part2nav
 ---
 
 <div class="row">

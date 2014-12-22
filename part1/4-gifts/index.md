@@ -12,10 +12,10 @@ We support the work of the [Environmental Justice Foundation](https://www.ejfoun
 
 <div class="jumbotron">
 <a href="https://www.justgiving.com/gibandjo/">
-<img align="center" src="http://dabuttonfactory.com/b.png?t=DONATE&f=Calibri-Bold&ts=18&tc=ffffff&it=png&c=0&bgt=unicolored&bgc=cc4646&hp=20&vp=11"></a>
+<img align="center" src="/img/redpill.png"></a>
 
-<a href="/gifts/wishlist">
-<img align="center" alt="" border="0" src="http://dabuttonfactory.com/b.png?t=GIFT&f=Calibri-Bold&ts=18&tc=ffffff&it=png&c=0&bgt=unicolored&bgc=7546cc&hp=34&vp=11"></a>
+<a href="/part1/4-gifts/wishlist">
+<img align="center" alt="" border="0" src="/img/bluepill.png"></a>
 </div>
 
 # THANK YOU!

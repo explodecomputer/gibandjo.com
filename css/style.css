@@ -226,8 +226,8 @@ border: 0;
   text-transform: uppercase;
   letter-spacing: 2px;
   font-family: 'Montserrat', sans-serif;
-  color: grey;
-  border: solid 1px grey;
+  color: black;
+  border: solid 1px white;
   text-align: center;
   padding: 5px;
 
@@ -237,14 +237,14 @@ border: 0;
 }
 
 .pageid:hover {
-  background-color: grey;
+  background-color: black;
   color: white;
   text-decoration: none;
 }
 
 
 .pageid.active {
-  background-color: grey;
+  background-color: black;
   color: white;
 
 }

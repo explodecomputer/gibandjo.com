@@ -226,25 +226,22 @@ border: 0;
   text-transform: uppercase;
   letter-spacing: 2px;
   font-family: 'Montserrat', sans-serif;
-  color: black;
+  color: #aaaaaa;
   border: solid 1px white;
   text-align: center;
   padding: 5px;
 
-  -webkit-border-radius: 15px;
-     -moz-border-radius: 15px;
-          border-radius: 15px;
 }
 
 .pageid:hover {
-  background-color: black;
+  background-color: #aaaaaa;
   color: white;
   text-decoration: none;
 }
 
 
 .pageid.active {
-  background-color: black;
+  background-color: #aaaaaa;
   color: white;
 
 }

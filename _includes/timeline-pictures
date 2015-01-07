@@ -1,0 +1,10 @@
+<div class="cd-timeline-block">
+	<div class="cd-timeline-img cd-picture">
+		<img src="/img/cd-icon-picture.svg" alt="Picture">
+	</div>
+	<div class="cd-timeline-content">
+		<a href="{{ imagepath }}" data-lightbox="dat" data-title="{{ imagecaption }}"><img src={{ imagepath }}></a>
+		<span class="cd-date"></span>
+		<p>{{ imagecaption }}</p>
+	</div>
+</div>

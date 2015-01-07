@@ -4,22 +4,22 @@ title: Gib&Jo
 ---
 
 <div class="row">
-	<div class="span3">
+	<div class="span3 bottom-buffer">
 		<img src="/img/socksfiltered.jpg" width="400px" style="margin-bottom: 15px;">
 		<h3>Civil ceremony</h3>
 		<p>First we got married legally at the Registry Office in Bristol with close family in attendance. It was great. Taj said this was technically sufficient but alas...</p>
 	</div>
-	<div class="span3">
+	<div class="span3 bottom-buffer">
 		<img src="/img/thankyousquare.jpg" width="400px" style="margin-bottom: 15px;">
 		<h3>Mehndi</h3>
 		<p>...we had other plans. A few days prior to the main wedding ceremony we had a beautiful Mehndi celebration in a marquee in Gibran's parent's garden. This was closely followed by...</p>
 	</div>
-	<div class="span3">
+	<div class="span3 bottom-buffer">
 		<img src="/img/flowersfiltered.jpg" width="400px" style="margin-bottom: 15px;">
 		<h3>Niqah wedding ceremony</h3>
 		<p>...we had other plans. A few days prior to the main wedding ceremony we had a beautiful Mehndi celebration in a marquee in Gibran's parent's garden. This was closely followed by...</p>
 	</div>
-	<div class="span3">
+	<div class="span3 bottom-buffer">
 		<img src="/img/smiles.jpg" width="400px" style="margin-bottom: 15px;">
 		<h3>Montclair Party</h3>
 		<p>...we had other plans. A few days prior to the main wedding ceremony we had a beautiful Mehndi celebration in a marquee in Gibran's parent's garden. This was closely followed by...</p>
@@ -28,7 +28,7 @@ title: Gib&Jo
 <div class="row">
 	<div class="span4">
 	</div>
-	<div class="span4">
+	<div class="span4 text-center">
 		<h3>For the full details we have compiled a technical report, published below</h3>
 	</div>
 	<div class="span4">
@@ -37,7 +37,7 @@ title: Gib&Jo
 <div class="row top-buffer">
 	<div class="span1">
 	</div>
-	<div class="span10" style="border: 1px solid grey;">
+	<div class="span10" style="border: 1px solid grey; box-shadow: 0 0 30px black; padding: 5px;">
 		<div class="row">
 			<div class="span5">
 				<p style="padding: 10px; color: black;"><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="/img/cc.png" /></a></p>

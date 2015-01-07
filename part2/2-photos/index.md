@@ -15,6 +15,7 @@ extra_js:
 
 <section id="cd-timeline" class="cd-container">
 
+<div id="civilceremony"></div>
 {% assign timelineheader = 'Civil Ceremony' %}
 {% assign timelinecontent = "We had our civil ceremony in Bristol at the registry office." %}
 {% assign timelinedate = "20th September 2014" %}
@@ -44,7 +45,7 @@ extra_js:
 {% assign imagecaption = "Now married, but only legally." %}
 {% include timeline-pictures %}
 
-
+<div id="mehndi"></div>
 {% assign timelineheader = 'Mehndi' %}
 {% assign timelinecontent = "We had a Mehndi celebration in Manchester" %}
 {% assign timelinedate = "16th October 2014" %}
@@ -79,7 +80,7 @@ extra_js:
 {% assign imagecaption = "Gibran's aunt and mother are pleased." %}
 {% include timeline-pictures %}
 
-
+<div id="wedding"></div>
 {% assign timelineheader = 'Niqah ceremony' %}
 {% assign timelinecontent = "We had our main wedding celebration in a barn in the Peak District" %}
 {% assign timelinedate = "18th October 2014" %}
@@ -169,6 +170,8 @@ extra_js:
 {% assign imagepath = "/img/collage/small/huxley.jpg" %}
 {% assign imagecaption = "" %}
 {% include timeline-pictures %}
+
+<div id="montclair"></div>
 
 
 </section>

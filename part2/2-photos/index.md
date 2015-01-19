@@ -60,20 +60,44 @@ extra_js:
 {% assign imagecaption = "The apple tree was looked quite spectacular inside the marquee." %}
 {% include timeline-pictures %}
 
+{% assign imagepath = "/img/collage/small/hux.JPG" %}
+{% assign imagecaption = "The apple tree was looked quite spectacular inside the marquee." %}
+{% include timeline-pictures %}
+
 {% assign imagepath = "/img/collage/small/bangles.jpg" %}
 {% assign imagecaption = "Colourful bangles and scarves for the guests." %}
+{% include timeline-pictures %}
+
+{% assign imagepath = "/img/collage/small/paparazzi.JPG" %}
+{% assign imagecaption = "The apple tree was looked quite spectacular inside the marquee." %}
+{% include timeline-pictures %}
+
+{% assign imagepath = "/img/collage/small/saritime.JPG" %}
+{% assign imagecaption = "The apple tree was looked quite spectacular inside the marquee." %}
 {% include timeline-pictures %}
 
 {% assign imagepath = "/img/collage/small/naomi_mehndi.jpg" %}
 {% assign imagecaption = "One by one the guests come up to the bride and groom and attack them with turmuric paste. Then, in an act of reconciliation, they feed them something sweet. Fruit is the token of choice at this vegan Mehndi." %}
 {% include timeline-pictures %}
 
+{% assign imagepath = "/img/collage/small/mehndilight.JPG" %}
+{% assign imagecaption = "The guests take it in turns to spread henna across paan leaves - one for the bride and one for the groom." %}
+{% include timeline-pictures %}
+
 {% assign imagepath = "/img/collage/small/lap.jpg" %}
+{% assign imagecaption = "The guests take it in turns to spread henna across paan leaves - one for the bride and one for the groom." %}
+{% include timeline-pictures %}
+
+{% assign imagepath = "/img/collage/small/mehndihand.JPG" %}
 {% assign imagecaption = "The guests take it in turns to spread henna across paan leaves - one for the bride and one for the groom." %}
 {% include timeline-pictures %}
 
 {% assign imagepath = "/img/collage/small/henna.jpg" %}
 {% assign imagecaption = "Henna is skillfully applied to the arms, hands, and feet of the bride. All in all this took four hours!" %}
+{% include timeline-pictures %}
+
+{% assign imagepath = "/img/collage/small/mehndiargh.JPG" %}
+{% assign imagecaption = "The guests take it in turns to spread henna across paan leaves - one for the bride and one for the groom." %}
 {% include timeline-pictures %}
 
 {% assign imagepath = "/img/collage/small/sisters.jpg" %}
@@ -86,6 +110,9 @@ extra_js:
 {% assign timelinedate = "18th October 2014" %}
 {% include timeline-text %}
 
+{% assign imagepath = "/img/collage/small/landscape.JPG" %}
+{% assign imagecaption = "" %}
+{% include timeline-pictures %}
 
 {% assign imagepath = "/img/collage/small/alpaca.jpg" %}
 {% assign imagecaption = "" %}
@@ -151,6 +178,14 @@ extra_js:
 {% assign imagecaption = "We are nice" %}
 {% include timeline-pictures %}
 
+{% assign imagepath = "/img/collage/small/ophelia.JPG" %}
+{% assign imagecaption = "" %}
+{% include timeline-pictures %}
+
+{% assign imagepath = "/img/collage/small/programme.JPG" %}
+{% assign imagecaption = "" %}
+{% include timeline-pictures %}
+
 {% assign imagepath = "/img/collage/small/klezmer.jpg" %}
 {% assign imagecaption = "" %}
 {% include timeline-pictures %}
@@ -159,7 +194,23 @@ extra_js:
 {% assign imagecaption = "" %}
 {% include timeline-pictures %}
 
+{% assign imagepath = "/img/collage/small/gibjoseph.JPG" %}
+{% assign imagecaption = "" %}
+{% include timeline-pictures %}
+
+{% assign imagepath = "/img/collage/small/inflight.JPG" %}
+{% assign imagecaption = "" %}
+{% include timeline-pictures %}
+
+{% assign imagepath = "/img/collage/small/jonoor.JPG" %}
+{% assign imagecaption = "" %}
+{% include timeline-pictures %}
+
 {% assign imagepath = "/img/collage/small/big_family.jpg" %}
+{% assign imagecaption = "" %}
+{% include timeline-pictures %}
+
+{% assign imagepath = "/img/collage/small/edinburgh.JPG" %}
 {% assign imagecaption = "" %}
 {% include timeline-pictures %}
 
@@ -167,7 +218,43 @@ extra_js:
 {% assign imagecaption = "" %}
 {% include timeline-pictures %}
 
+{% assign imagepath = "/img/collage/small/favour.jpg" %}
+{% assign imagecaption = "" %}
+{% include timeline-pictures %}
+
+{% assign imagepath = "/img/collage/small/speech1.JPG" %}
+{% assign imagecaption = "" %}
+{% include timeline-pictures %}
+
+{% assign imagepath = "/img/collage/small/speech2.JPG" %}
+{% assign imagecaption = "" %}
+{% include timeline-pictures %}
+
+{% assign imagepath = "/img/collage/small/lights.JPG" %}
+{% assign imagecaption = "" %}
+{% include timeline-pictures %}
+
+{% assign imagepath = "/img/collage/small/inappropriatelysmug.JPG" %}
+{% assign imagecaption = "" %}
+{% include timeline-pictures %}
+
+{% assign imagepath = "/img/collage/small/huddle.JPG" %}
+{% assign imagecaption = "" %}
+{% include timeline-pictures %}
+
 {% assign imagepath = "/img/collage/small/huxley.jpg" %}
+{% assign imagecaption = "" %}
+{% include timeline-pictures %}
+
+{% assign imagepath = "/img/collage/small/valley.JPG" %}
+{% assign imagecaption = "" %}
+{% include timeline-pictures %}
+
+{% assign imagepath = "/img/collage/small/cave.JPG" %}
+{% assign imagecaption = "" %}
+{% include timeline-pictures %}
+
+{% assign imagepath = "/img/socks.jpg" %}
 {% assign imagecaption = "" %}
 {% include timeline-pictures %}
 

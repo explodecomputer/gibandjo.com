@@ -85,7 +85,7 @@ title: Gib&Jo
 				</div>
 				<div class="span8">
 
-					<h2>Introduction</h2>
+					<h2 class="top-buffer">Introduction</h2>
 					<p>Marriage is a near ubiquitous human concept but a highly heterogeneous human tradition. Understanding its place and meaning in the 21st century cosmopolitan West is non-trivial, and up until the end of 2013 we were quite content to regard it as a <em>theoretical problem</em>. However, at around that point things started getting serious which forced us to elevate it to the status of <em>practical challenge</em>.</p>
 
 					<p>The practical challenge of assembling any wedding is daunting, but given the cultural maelstrom in which we found ourselves it seemed particularly insurmountable. But as we show through empirical findings there do exist tractable solutions, provided that certain conditions are met, which we detail below.</p>
@@ -99,7 +99,7 @@ title: Gib&Jo
 					<p>Finally, the most important thing of all was love and acceptance. Our parents, families and friends have supported us, encouraged us and celebrated us in ways that are truly humbling. They are brilliant and we are extraordinarily lucky.</p>
 
 
-					<h2>Methods and Results</h2>
+					<h2 class="top-buffer">Methods and Results</h2>
 
 					<h3>Civil ceremony</h3>
 
@@ -236,13 +236,13 @@ title: Gib&Jo
 					<p>And then we ate many bagels and had a party with Ethiopian food and three flavours of vegan cake: Cookies and Cream, Maple Walnut, and Raspberry Beret. Those of any religion would approve of such celebration.</p>
 
 
-					<h2>Discussion</h2>
+					<h2 class="top-buffer">Discussion</h2>
 					<p>We would be absolutely the happiest to discuss anything further with any of you, if there is anything to discuss. Mostly we reiterate the gratefulness we feel to everyone who was a part of any part of our wedding process, and reach the conclusion that we are very lucky.</p>
 
 					<p>We consider the wedding part of this marriage to be actually over, and future work will entail settling in to the marriage and life part of things. And determining on which date we should celebrate our anniversary.</p>
 
 				</div>
-				<div class="span2">
+				<div class="span2 bottom-buffer">
 				</div>
 			</div>
 

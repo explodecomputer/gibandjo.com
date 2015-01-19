@@ -9,6 +9,16 @@
     font-weight: bold;
 }
 
+@font-face {
+  font-family: 'Josefin Sans';
+  src: url(/fonts/JosefinSans-Regular.ttf);
+}
+
+@font-face {
+  font-family: 'Josefin Slab';
+  src: url(/fonts/JosefinSlab-Regular.ttf);
+}
+
 /* Custom container */
 
 /* Replaced with normal container and standard footer */
@@ -265,4 +275,24 @@ border: 0;
   -webkit-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.25);
      -moz-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.25);
           box-shadow: 0 1px 0 rgba(0, 0, 0, 0.25);
+}
+
+
+.advice .cd-timeline-content {
+  background-color: #F0D8A8;
+}
+
+.advice .cd-timeline-content p {
+  font-family: 'Josefin Slab';
+  font-weight: bold;
+  font-size: 30px;
+  color: #3D1C00;
+}
+
+.advice .cd-timeline-img.cd-location {
+  background: #86B8B1;
+}
+
+.adviceintro {
+  font-size: 30px;
 }

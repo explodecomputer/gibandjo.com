@@ -13,7 +13,7 @@ extra_js:
 
 
 
-<section id="cd-timeline" class="cd-container">
+<section id="cd-timeline" class="cd-container photospage">
 
 <div id="civilceremony"></div>
 {% assign timelineheader = 'Civil Ceremony' %}

@@ -296,3 +296,26 @@ border: 0;
 .adviceintro {
   font-size: 30px;
 }
+
+.photospage .cd-timeline-content {
+  background-color: #FEF9F0;
+}
+
+.photospage .cd-timeline-content p {
+  font-family: 'Josefin Slab';
+  font-weight: bold;
+  font-size: 20px;
+  color: #304B69;
+}
+
+.photospage .cd-timeline-img.cd-location {
+  background: #FFB366;
+}
+
+.photospage .cd-timeline-img.cd-picture {
+  background: #304B69;
+}
+
+.adviceintro {
+  font-size: 30px;
+}

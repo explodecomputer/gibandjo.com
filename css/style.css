@@ -319,3 +319,63 @@ border: 0;
 .adviceintro {
   font-size: 30px;
 }
+
+.thanks0, .thanks1, .thanks2, .thanks3, .thanks4 {
+  font-family: 'Josefin Slab';
+  font-weight: bold;
+  font-size: 20px;
+  opacity: 1;
+}
+
+.thanksname1, .thanksname2, .thanksname3, .thanksname4 {
+  font-family: 'Josefin Slab';
+  font-weight: bold;
+  font-size: 20px;
+  opacity: 1;
+}
+
+.thanksname1, .thanksname2, .thanksname3, .thanksname4 {
+  color: white;
+}
+
+.thanks0 {
+  color: #1693A5;
+}
+
+.thanks1 {
+  color: #741952;
+}
+
+.thanks2 {
+  color: #fe3174;
+}
+
+.thanks3 {
+  color: #f1c15d;
+}
+
+.thanks4 {
+  color: #09a3ad;
+}
+
+.thanks1:hover, .thanks2:hover, .thanks3:hover, .thanks4:hover {
+  opacity: 1;
+}
+
+.thanksname1 {
+  background-color: #741952;
+}
+
+.thanksname2 {
+  background-color: #fe3174;
+}
+
+.thanksname3 {
+  background-color: #f1c15d;
+}
+
+.thanksname4 {
+  background-color: #09a3ad;
+}
+
+§``

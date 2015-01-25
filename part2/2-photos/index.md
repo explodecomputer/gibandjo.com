@@ -15,11 +15,13 @@ extra_js:
 
 <section id="cd-timeline" class="cd-container photospage">
 
-<div id="civilceremony"></div>
-{% assign timelineheader = 'Civil Ceremony' %}
-{% assign timelinecontent = "We had our civil ceremony in Bristol at the registry office." %}
+
+<div id="rings"></div>
+{% assign timelineheader = 'Making our rings' %}
+{% assign timelinecontent = "As in accordance with tradition, we made it our goal to hand make wedding rings for each other. This is a tradition right?" %}
 {% assign timelinedate = "20th September 2014" %}
 {% include timeline-text %}
+
 
 {% assign imagepath = '/img/collage/small/jo_rings.jpg' %}
 {% assign imagecaption = "The journey starts with us making each others wedding rings. Here is Jo making Gib's wedding ring, the more technically challenging of the two tasks." %}
@@ -32,6 +34,12 @@ extra_js:
 {% assign imagepath = "/img/collage/small/rings.jpg" %}
 {% assign imagecaption = "The finished products. Pictured artfully on a leaf." %}
 {% include timeline-pictures %}
+
+<div id="civilceremony"></div>
+{% assign timelineheader = 'Civil Ceremony' %}
+{% assign timelinecontent = "We had our civil ceremony in Bristol at the registry office.<br/> Objective: get legally married.<br/> Result: we are legally married. Sick." %}
+{% assign timelinedate = "20th September 2014" %}
+{% include timeline-text %}
 
 {% assign imagepath = "/img/collage/small/random_bloke.jpg" %}
 {% assign imagecaption = "This is our favourite picture. Taken just before the civil ceremony at after we had walked to the Bristol Registry Office. The bloke on the left is not at all random but he does a good job advertising male grooming." %}

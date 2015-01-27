@@ -9,21 +9,15 @@ group: part2nav
 	<div class="span6">
 		<h2 class="righttext">TO THE WIFE'S PARENTS IN LAW</h2>
 		<img src="/img/gib_parents.jpg">
-		<p class="caption righttext">These are not Gib's real parents, just a place holder image.</p>
+		<p class="caption righttext">Gib's parents on their wedding day. Mum assures me that her look of devastation was purely in accordance with tradition.</p>
 
-		<p>I do not know if she ever went to primary school (let's assume that she did), but I am led to believe that she did attend secondary school at Montclair High. Here she played trumpet in something called "the band". Though I have come to understand that this is something significant, what that significance actually is still eludes me. She also did lots of maths. Sometimes she took extra classes at a nearby university. This means she has either very high intelligence, or very low intelligence.</p>
-
-		<p>Not long afterwards, Jo left Montclair and attended Princeton University. Here she "majored" in Ecology and Evolutionary biology, and "minored" in African studies and Environmental studies. Whatever that means. She also manufactured time to study Arabic. She played in "the band" here too, but it was a different band. I once asked her if 'the band' was like a terrorist organisation, and there were different cells in different places, but she said, "No, not really". Hmm. Suspicious. Quite some time after we met, one of her friends told me she finished top of her department at Princeton. You kept that one quiet Jo!</p>
-
-		<p>Then she went and did some work in Kenya, and then she did some research in South Africa, and she made it all the way to Australia to do some more research there too. She finally started a PhD in Bristol where she setup field work in Botswana and did more research in Australia. </p>
-
-		<p>Jo is interested in everything. This makes for endless conversation. There are some aspects of her character that are lacking though. For example, she simply cannot peel oranges. Even though orange is her favourite colour. And if she sees a dog, a jar of tahini, or some pickles, she will walk towards it without hesitation, which means she can't go outside unsupervised.</p>
+		<p></p>
 	</div>
 
 	<div class="span6">
 		<h2>TO THE HUSBAND'S PARENTS IN LAW</h2>
 		<img src="/img/jo_parents2.jpg">
-		<p class="caption">Jo's parents: hipsters before it was cool.</p>
+		<p class="caption">Jo's parents on their wedding day. Hipsters way before it was cool. Look at how ironic they are. They're sooooo ironic.</p>
 
 		<p>I do not know if she ever went to primary school (let's assume that she did), but I am led to believe that she did attend secondary school at Montclair High. Here she played trumpet in something called "the band". Though I have come to understand that this is something significant, what that significance actually is still eludes me. She also did lots of maths. Sometimes she took extra classes at a nearby university. This means she has either very high intelligence, or very low intelligence.</p>
 

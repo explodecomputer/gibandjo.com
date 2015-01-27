@@ -3,7 +3,7 @@
 		<img src="/img/cd-icon-picture.svg" alt="Picture">
 	</div>
 	<div class="cd-timeline-content">
-		<a href="{{ imagepath }}" data-lightbox="dat" data-title="{{ imagecaption }}"><img src={{ imagepath }}></a>
+		<a href="{{ imagepath }}" data-lightbox="dat" data-title="{{ imagecaption }}"><img src={{ imagepath }}></a><p style="text-align: right; font-size: 10px;">&copy; {{ photographer }}</p>
 		<span class="cd-date"></span>
 		<p>{{ imagecaption }}</p>
 	</div>

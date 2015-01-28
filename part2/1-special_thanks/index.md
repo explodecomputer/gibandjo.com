@@ -72,6 +72,12 @@ group: part2nav
 		<h3>Adrienne Harvey</h3>
 		<h3>Maggie</h3>
 		<h3>Margaret</h3>
+
+		<h2>Parking administrators</h2>
+		<h3>Meghan Hess</h3>
+		<h3>Sandra Mazlagic</h3>
+		<h3>Rosamunde Pare</h3>
+
 	</div>
 	<div class="span3 text-center credits">
 
@@ -83,12 +89,13 @@ group: part2nav
 		<h3>Meghan Hess</h3>
 		<h3>Rosamunde Pare</h3>
 
-		<h2>Musical Director</h2>
+		<h2>Musical Directors</h2>
 		<h3>Sandra Mazlagic</h3>
+		<h3>Adiba Sultan</h3>
 
 		<h2>Deliverer of Words</h2>
 		<h3>Derek Walker</h3>
-		<h3>Liz Walker</h3>
+		<h3>Liz Kasper</h3>
 		<h3>Baji Naqvi</h3>
 
 		<h2>MC</h2>
@@ -128,7 +135,7 @@ group: part2nav
 	<div class="span3 text-center credits">
 
 		<h2>Financial Advisory Board</h2>
-		<h3>Liz Walker</h3>
+		<h3>Liz Kasper</h3>
 
 		<h2>Ambassadorial Services</h2>
 		<h3>Baji Naqvi</h3>
@@ -145,6 +152,14 @@ group: part2nav
 		<h3>Meghan Hess</h3>
 		<h3>Lauren Shay Lavin</h3>
 		<h3>Carl Lavin</h3>
+		<h3>Liz Kasper</h3>
+		<h3>Ophelia Mae Kasper</h3>
+
+		<h2>Bride's nail polishers</h2>
+		<h3>Adiba Sultan</h3>
+		<h3>Sandra Mazlagic</h3>
+		<h3>Meghan Hess</h3>
+
 	</div>
 </div>
 
@@ -162,6 +177,9 @@ group: part2nav
 
 		<h2>Niqah ceremony</h2>
 		<h3><a href="http://www.meco.org.uk">Dr Taj Hargey</a></h3>
+
+		<h2>Henna artists</h2>
+		<h3>WE DON'T KNOW YET</h3>
 
 	</div>
 	<div class="span4 text-center credits">
@@ -183,6 +201,10 @@ group: part2nav
 
 		<h2>Klezmer music and dance</h2>
 		<h3><a href="http://www.bbc.co.uk/birmingham/content/articles/2008/09/05/klemzer_revival_feature.shtml">The Klatsch</a></h3>
+
+		<h2>Hair and Makeup</h2>
+		<h3>A lady</h3>
+
 	</div>
 
 	<div class="span4">

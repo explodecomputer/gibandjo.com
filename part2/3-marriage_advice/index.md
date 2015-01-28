@@ -13,8 +13,8 @@ extra_js:
 <div class="row">
 	<div class="span4">
 	</div>
-	<div class="span4">
-		<p class="adviceintro">Many of you were nice enough to send advice on how to navigate through married life. We believe that it would be wrong to keep such wisdom to ourselves, and in the spirit of sharing they are published here, anonymous and unedited, for your benefit.</p>
+	<div class="span4 text-center">
+		<p class="thanks0">Many of you were nice enough to send advice on how to navigate through married life. We believe that it would be wrong to keep such wisdom to ourselves, and in the spirit of sharing they are published here, anonymous and unedited, for your benefit.</p>
 	</div>
 	<div class="span4">
 	</div>

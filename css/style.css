@@ -86,6 +86,7 @@ p {
 
 p a {
   color: #000;
+  text-decoration: underline;
 }
 
 
@@ -378,4 +379,17 @@ border: 0;
   background-color: #09a3ad;
 }
 
-§``
+.credits h2 {
+  margin-bottom: 10px;
+  margin-top: 40px;
+  border: 1px solid gray;
+}
+
+li .active2 {
+  border: 1px solid gray;
+  /*border-radius: none;*/
+}
+
+li .inactive2 {
+  border: 1px solid white;
+}

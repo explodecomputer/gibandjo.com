@@ -131,6 +131,7 @@ extra_js:
 {% assign photographer = "Lauren Shay Lavin" %}
 {% include timeline-pictures %}
 
+
 <div id="wedding"></div>
 {% assign timelineheader = 'Niqah ceremony' %}
 {% assign timelinecontent = "We had our main wedding celebration in a barn in the Peak District. <br/>Objective: get married again.<br/>Result: got married again." %}
@@ -313,8 +314,13 @@ extra_js:
 {% assign photographer = "Meghan Hess" %}
 {% include timeline-pictures %}
 
+{% assign imagepath = "/img/collage/small/masud.JPG" %}
+{% assign imagecaption = "Uncle Masud scans the horizon for shelter from the weather and from rampaging bulls." %}
+{% assign photographer = "Gib" %}
+{% include timeline-pictures %}
+
 {% assign imagepath = "/img/collage/small/cave.JPG" %}
-{% assign imagecaption = "We found a cave" %}
+{% assign imagecaption = "We found a cave." %}
 {% assign photographer = "Meghan Hess" %}
 {% include timeline-pictures %}
 

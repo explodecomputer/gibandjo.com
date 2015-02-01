@@ -211,7 +211,7 @@ group: part2nav
 		<h3><a href="http://www.bbc.co.uk/birmingham/content/articles/2008/09/05/klemzer_revival_feature.shtml">The Klatsch</a></h3>
 
 		<h2>Hair and Makeup</h2>
-		<h3>A lady</h3>
+		<h3>Lily the hair and makeup lady</h3>
 
 	</div>
 

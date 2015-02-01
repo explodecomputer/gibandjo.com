@@ -45,7 +45,7 @@ group: part2nav
 			</div>			
 			<div class="span6">
 				<h2>Abstract</h2>
-				<p>Following months of discussion ("What even <em>is</em> marriage?") and planning ("What do you actually <em>do</em> at a Jewish-Muslim wedding?"), we hereby declare that we got married. The marriage was executed using a modest (by Pakistani standards) / lavish (by American standards) four-stage strategy, which included a civil ceremony in Bristol, a mehndi in Manchester, and a thing in a barn in the Peak District, and a party in Montclair. Each event was made possible through the super-human efforts, wisdom, love, and dedication of some very special people. We were extremely touched by all of you who were so kind to honour us with your attendance: our friends, our family, people who we knew, people whose existence we were dimly aware of, and Taj's wife's grandmother. It was a wonderful time, we will remember it always. Thank you!</p>
+				<p>Following months of discussion ("What even <em>is</em> marriage?") and planning ("What do you actually <em>do</em> at a Jewish-Muslim wedding?"), we hereby declare that we got married. The marriage was executed using a modest (by Pakistani standards) / lavish (by American standards) four-stage strategy, which included a civil ceremony in Bristol, a mehndi in Manchester, and a thing in a barn in the Peak District, and a party in Montclair. Each event was made possible through the super-human efforts, wisdom, love, and dedication of some very special people. We were extremely touched by all of you who were so kind to honour us with your attendance: our friends, our family, people who we knew, people whose existence we were dimly aware of, and Dr Taj's wife's grandmother. It was a wonderful time, we will remember it always. Thank you!</p>
 			</div>
 			<div class="span1">
 			</div>
@@ -57,7 +57,7 @@ group: part2nav
 				<div class="span8">
 
 					<h2 class="top-buffer">Introduction</h2>
-					<p>Marriage is a near ubiquitous human concept but a highly heterogeneous human tradition. Understanding its place and meaning in the 21st century cosmopolitan West is non-trivial, and up until the end of 2013 we were quite content to regard it as a <em>theoretical problem</em>. However, at around that point things started getting serious which forced us to elevate it to the status of <em>practical challenge</em>.</p>
+					<p>Marriage is a near ubiquitous human concept but a highly heterogeneous human tradition. Understanding its place and meaning in the 21st century cosmopolitan West is non-trivial, and up until the end of 2013 we were quite content to regard it as a <em>theoretical problem</em>. However, at around that point shit started getting serious which forced us to elevate it to the status of <em>practical challenge</em>.</p>
 
 					<p>The practical challenge of assembling any wedding is daunting, but given the cultural maelstrom in which we found ourselves it seemed particularly insurmountable. But as we show through empirical findings (<a href="/part2/2-photos/">Supplementary Figures</a>) there do exist tractable solutions, provided that certain conditions are met, which we detail below.</p>
 
@@ -78,26 +78,23 @@ group: part2nav
 
 					<p>Jo's parents arrived from the US, journeyed to Birmingham and travelled from here to Bristol by canal boat. Her Uncle David and Aunts Maggie and Margaret arrived by more conventional means. Derek and Anna came from Oxford and Sandra hopped in from London to stand in for sister Liz and family. Gib's parents, brother, sister, Khala Begum and cousins Adiba and Baji piled into a minivan and made the journey to Bristol from Manchester.</p>
 
-					<p>It was a pleasant autumnal day and most of the party walked to the registry office in time for an ungodly 09:00 ceremony. The registrant introduced the bride and groom, and said some pleasant secular things. As might be expected for a ceremony of this ilk it is required that the names of the bride and groom be spoken out loud from time to time, so as to personalise the event and specify who is being married with whom. Remarkably, each time such moment occurred the registrant managed to find a new incorrect pronunciation of our names. Half an hour into the ceremony attendants were impressed and astonished that she had the creativity to continue finding new variants in the pronunciation of the names 'Gibran Hemani' and 'Josephine Grobstein Walker'. We managed to not giggle too much and we applaud her for excellent preparation. Except for the part where they still had our old address and had to cross it out and scribble in the new one in the official marriage register. Someday in the future, someone will look up this auspicious record of our legal marriage and think we didn't even know our own address.</p>
-
-					<p>Once we (or at least some people who have similar sounding names to us) were successfully married, everyone came back to our house for some delicious food catered by our favourite vegan leopard, The Spotless Leopard. Mmmmac and cheese.</p>
+					<p>Walked to the registry office. Once we (or at least some people who have similar sounding names to us) were successfully married, everyone came back to our house for some delicious food catered by our favourite vegan leopard, <a href="http://www.thespotlessleopard.co.uk">The Spotless Leopard</a>. Mmmmac and cheese.</p>
 
 
 					<h3>Mehndi</h3>
 
-					<p>Pakistani weddings often include a pre-wedding celebration known as the Mehndi. During this time henna is artistically applied to the bride's hands/arms and feet/legs over the course of several hours. There is often singing and dancing, but we pretty much skipped that part. </p>
+					<p>Pakistani weddings often include a pre-wedding celebration known as the Mehndi. During this time henna is artistically applied to the bride's hands/arms and feet/legs over the course of several hours. There is often singing and dancing, but we pretty much skipped that part.</p>
 
-					<p>Another ritual is for guests to approach the bride and groom, smear tumeric on their faces,  dab henna onto paan leaves on their open palms, and to feed them something sweet (pieces of fruit on this occasion).</p>
-
+					<p>Another ritual is for guests to approach the bride and groom, smear tumeric on their faces, dab henna onto paan leaves on their open palms, and to feed them something sweet (pieces of fruit on this occasion).</p>
 
 					<p><strong>Step 1:</strong> Construct a huge marquee over an apple tree in the backgarden. Decorate with colourful fabric and fairy lights.</p>
 					<p><strong>Step 2:</strong> Furnish with hand made floor cushions and then spend the evening waterproofing from the outside as the rain comes down hard. Ignore the snide remarks from the disgruntled chickens.</p>
-					<p><strong>Step 3:</strong> Invite dozens of people to smear turmuric paste over the faces of the bride and groom, stuff their mouths with berries, and wave money destined for charity around their colourful mouths/faces. In this way we raised more than £200 for the Environmental Justice Foundation. </p>
+					<p><strong>Step 3:</strong> Invite dozens of people to smear turmuric paste over the faces of the bride and groom, stuff their mouths with berries, and wave money destined for charity around their colourful mouths/faces. In this way we raised more than £200 for the <a href="https://www.justgiving.com/gibandjo/">Environmental Justice Foundation</a>. </p>
 					<p><strong>Step 4:</strong> Henna. Lots of Henna. Several hours of henna. Eat delicious vegan Indian food without ruining henna. </p>
 
 					<h3>Weddings and Blessings</h3>
 
-					<p class="bottom-buffer">Here we compare and contrast the marriage advice provided at the Islamic Niqah ceremony and the Reconstructionist Jewish Aufruf ceremony. Dr Taj delivered a concise and easy to remember set of words on which to meditate the manners and attitudes towards marriage. He began with words beginning with the letter 'T', detailed in Table 1.</p>
+					<p class="bottom-buffer">We had our main wedding in a beautifully decorated barn in the Peak District. See <a href="/part1/">Part 1</a> for all the particulars. The day kicked off with the Niqah ceremony. The first half of the ceremony dealt with the religious side of marriage, and the second half was a slightly more light hearted tour along the path to a good marriage. Dr Taj delivered a concise and easy to remember set of words on which to meditate the manners and attitudes towards marriage. He began with words beginning with the letter 'T', detailed in Table 1.</p>
 
 					<h3 style="width: 75%; margin: 0px auto;">Table 1: The six T's of marriage</h3>
 					<table class="table table-striped" style="width: 75%; margin: 0px auto;">
@@ -202,7 +199,7 @@ group: part2nav
 						</tbody>
 					</table>
 
-					<p class="top-buffer">Reconstructionist Judaism has a lovely reconstructed view of marriage and we were honoured to receive such a nice blessing within the synagogue in Montclair. Normally the Aufruf blessing occurs before the wedding itself, but reconstructionism doesn't mind too much. We received the blessing with gratitude, but we can't exactly remember the details as we were quite hungry.</p>
+					<p class="top-buffer">As we all know no marriage is really valid until it has been recognised by at least two religions. We journeyed to the US to satisfy this requirement and have a party with the folks who couldn't make it to the Peak District. Reconstructionist Judaism has a lovely reconstructed view of marriage and we were honoured to receive such a nice blessing within the synagogue in Montclair. Normally the Aufruf blessing occurs before the wedding itself, but turns out that reconstructionism doesn't mind too much about this, or anything else. Though we received the blessing with gratitude, we can't exactly remember the details as we were quite hungry.</p>
 
 					<p>And then we ate many bagels and had a party with Ethiopian food and three flavours of vegan cake: Cookies and Cream, Maple Walnut, and Raspberry Beret. Those of any religion would approve of such celebration.</p>
 
@@ -211,6 +208,14 @@ group: part2nav
 					<p>We would be absolutely the happiest to discuss anything further with any of you, if there is anything to discuss. Mostly we reiterate the gratefulness we feel to everyone who was a part of any part of our wedding process, and reach the conclusion that we are very lucky.</p>
 
 					<p>We consider the wedding part of this marriage to be actually over, and future work will entail settling in to the marriage and life part of things. And determining on which date we should celebrate our anniversary.</p>
+
+					
+					<h2 class="top-buffer">Bibliography</h2>
+
+					<p>Allah et al. <em>The Holy Qur'an</em>. <strong>632CE</strong>.</p>
+					<p>Adonai et al. <em>The Torah</em>. <strong>~2000BCE</strong>.</p>
+					<p>Hitchens, C. <em>The Portable Atheist</em>. <strong>Da Capo Press, 2007</strong>.</p>
+					<p>Lenderman, T. <em>The Complete Idiots Guide to the Perfect Wedding</em>. <strong>Alpha, 3rd edition, 2000</strong></p>
 
 				</div>
 				<div class="span2 bottom-buffer">

@@ -22,7 +22,7 @@ group: part2nav
 	<div class="span6">
 		<h2 class="righttext">TO GIBRAN'S PARENTS</h2>
 		<img src="/img/gib_parents.jpg">
-		<p class="caption righttext">Gib's parents on their wedding day. Mum assures me that her look of devastation was purely in accordance with tradition.</p>
+		<p class="caption righttext">Gib's parents on their wedding day. Gibran inherited his reluctance to smile on camera from somewhere...</p>
 
 		<p>If we were to attempt to quantify the amount that you have done for us the units of measurement would probably be in metric tons and we simply don’t have the equipment to do it. Instead, we’d just like to write a couple of anecdotes here to give the world a flavour of how fantastic you have been.</p>
 
@@ -38,6 +38,8 @@ group: part2nav
 		<img src="/img/jo_parents2.jpg">
 		<p class="caption">Jo's parents on their wedding day. Hipsters way before it was cool. Look at how ironic they are. They're sooooo ironic.</p>
 
+		<p>We like few words, and few words of thanks in this family. But we still have to express our appreciation for your hard work, time committed, and spreadsheets made from all the way across the ocean for two events and on the ground across the ocean from us for the last part. This made all our weddings successes. Thanks for your enthusiasm, for supporting every decision we made, coordinating many logistics, and contributing so many funds. And of course embracing all the embraces. We really appreciate it.</p>
+
 	</div>
 </div>
 
@@ -48,6 +50,12 @@ group: part2nav
 	</div>
 </div>
 
+<div class="row">
+	<div class="span12 text-center credits">
+		<h2>Executive producers</h2>
+		<h3>Rukhsana Hemani &middot; Bashir Hemani &middot; Naomi Grobstein &middot; Peter Walker</h3>
+	</div>
+</div>
 <div class="row">
 	<div class="span3 text-center credits">
 
@@ -73,7 +81,7 @@ group: part2nav
 		<h3>Maggie</h3>
 		<h3>Margaret</h3>
 
-		<h2>Parking administrators</h2>
+		<h2>Parking Directors</h2>
 		<h3>Meghan Hess</h3>
 		<h3>Sandra Mazlagic</h3>
 		<h3>Rosamunde Pare</h3>
@@ -179,7 +187,7 @@ group: part2nav
 		<h3><a href="http://www.meco.org.uk">Dr Taj Hargey</a></h3>
 
 		<h2>Henna artists</h2>
-		<h3>WE DON'T KNOW YET</h3>
+		<h3>Two nice girls</h3>
 
 	</div>
 	<div class="span4 text-center credits">

@@ -26,12 +26,12 @@ title: Gib&Jo
 	</div>
 </div>
 <div class="row">
-	<div class="span4">
+	<div class="span3">
 	</div>
-	<div class="span4 text-center">
-		<h2>For more details (than you could possibly want) please refer to the</h2><br/>
+	<div class="span6 text-center">
+		<h2>For more details<br/><span style="font-size: 50%">(than you could possibly want)</span><br/>please refer to the</h2><br/>
 	</div>
-	<div class="span4">
+	<div class="span3">
 	</div>
 </div>
 <div class="row bottom-buffer">
@@ -43,4 +43,3 @@ title: Gib&Jo
 	<div class="span2">
 	</div>
 </div>
-

@@ -10,28 +10,28 @@ group: part2nav
 	</div>
 	<div class="span10" style="border: 1px solid grey; box-shadow: 0 0 30px black; padding: 5px;">
 		<div class="row">
-			<div class="span5">
-				<p style="padding: 10px; color: black;"><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="/img/cc.png" /></a></p>
+			<div class="span2">
+				<p style="padding: 20px; color: black;"><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="/img/cc.png" /></a></p>
 			</div>
-			<div class="span5 text-right">
-				<p style="padding: 10px; color: black;"><em>Int. J. Gib. Jo.</em><br/>doi:10.555/j.8843-8496.2014.1018.woo</p>
+			<div class="span8 text-right">
+				<p style="padding: 20px; color: black;"><em>Int. J. Gib. Jo.</em><br/>doi:10.555/j.8843-8496.2014.1018.woo</p>
 			</div>
 		</div>
 		<div class="row">
 			<div class="span3">
 			</div>
 			<div class="span7 top-buffer">
-				<h1 class="bottom-buffer" style="font-size: 60px; margin-bottom: 10px;">We got married</h1>
-				<h3 style="">Walker, J.G., Hemani, G.</h3>
-				<p style="margin-top: 10px; line-height: 100%;"><em>Department of Matrimony, School of Major Life Events, University of Bristol, UK<br/>
+				<h1 style="font-size: 45px; margin-bottom: 10px; padding: 0px 20px 0px 20px;">We got married</h1>
+				<h3 style="padding: 0px 20px 0px 20px;">Walker, J.G., Hemani, G.</h3>
+				<p style="margin-top: 10px; line-height: 100%; padding: 0px 20px 0px 20px;"><em>Department of Matrimony, School of Major Life Events, University of Bristol, UK<br/>
 				Both authors contributed equally to this work.</em></p>
-				<p style="margin-top: 10px; line-height: 100%;"><em>Manuscript first received 20 September 2014<br/>
+				<p style="margin-top: 10px; line-height: 100%; padding: 0px 20px 0px 20px;"><em>Manuscript first received 20 September 2014<br/>
 				Accepted for publication 18 October 2014</em></p>
 			</div>
 			<div class="span2">
 			</div>
 		</div>
-		<div class="row top-buffer">
+		<div class="row top-buffer" style="padding: 0px 20px 0px 20px;">
 			<div class="span1">
 			</div>
 			<div class="span2">
@@ -51,7 +51,7 @@ group: part2nav
 			</div>
 		</div>
 
- 			<div class="row">
+ 			<div class="row" style="padding: 0px 20px 0px 20px;">
 				<div class="span1">
 				</div>
 				<div class="span8">

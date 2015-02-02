@@ -81,17 +81,17 @@ extra_js:
 {% assign photographer = "Lauren Shay Lavin" %}
 {% include timeline-pictures %}
 
-{% assign imagepath = "/img/collage/small/hux.JPG" %}
+{% assign imagepath = "/img/collage/small/hux.jpg" %}
 {% assign imagecaption = "Huxley looked on longingly. No Huxley, bangles are not for dogs." %}
 {% assign photographer = "Meghan Hess" %}
 {% include timeline-pictures %}
 
-{% assign imagepath = "/img/collage/small/paparazzi.JPG" %}
+{% assign imagepath = "/img/collage/small/paparazzi.jpg" %}
 {% assign imagecaption = "Many pictures were taken, especially by Lauren. For the few seconds when Lauren wasn't taking pictures Carl was there to make sure no moment was lost." %}
 {% assign photographer = "Meghan Hess" %}
 {% include timeline-pictures %}
 
-{% assign imagepath = "/img/collage/small/saritime.JPG" %}
+{% assign imagepath = "/img/collage/small/saritime.jpg" %}
 {% assign imagecaption = "All of Jo's friends acquired saris from the Hemani Collection for the occasion." %}
 {% assign photographer = "Lauren Shay Lavin" %}
 {% include timeline-pictures %}
@@ -101,7 +101,7 @@ extra_js:
 {% assign photographer = "Lauren Shay Lavin" %}
 {% include timeline-pictures %}
 
-{% assign imagepath = "/img/collage/small/mehndilight.JPG" %}
+{% assign imagepath = "/img/collage/small/mehndilight.jpg" %}
 {% assign imagecaption = "The guests take it in turns to spread henna across paan leaves - one for the bride and one for the groom." %}
 {% assign photographer = "Meghan Hess" %}
 {% include timeline-pictures %}
@@ -111,7 +111,7 @@ extra_js:
 {% assign photographer = "Lauren Shay Lavin" %}
 {% include timeline-pictures %}
 
-{% assign imagepath = "/img/collage/small/mehndihand.JPG" %}
+{% assign imagepath = "/img/collage/small/mehndihand.jpg" %}
 {% assign imagecaption = "Two very talented ladies decorated the bride and anyone else who was up for it." %}
 {% assign photographer = "Meghan Hess" %}
 {% include timeline-pictures %}
@@ -121,7 +121,7 @@ extra_js:
 {% assign photographer = "Lauren Shay Lavin" %}
 {% include timeline-pictures %}
 
-{% assign imagepath = "/img/collage/small/mehndiargh.JPG" %}
+{% assign imagepath = "/img/collage/small/mehndiargh.jpg" %}
 {% assign imagecaption = "Henna arms must touch nothing." %}
 {% assign photographer = "Meghan Hess" %}
 {% include timeline-pictures %}
@@ -138,7 +138,7 @@ extra_js:
 {% assign timelinedate = "18th October 2014" %}
 {% include timeline-text %}
 
-{% assign imagepath = "/img/collage/small/landscape.JPG" %}
+{% assign imagepath = "/img/collage/small/landscape.jpg" %}
 {% assign imagecaption = "It was a lovely place." %}
 {% assign photographer = "Meghan Hess" %}
 {% include timeline-pictures %}
@@ -228,12 +228,12 @@ extra_js:
 {% assign photographer = "Lauren Shay Lavin" %}
 {% include timeline-pictures %}
 
-{% assign imagepath = "/img/collage/small/ophelia.JPG" %}
+{% assign imagepath = "/img/collage/small/ophelia.jpg" %}
 {% assign imagecaption = "Sandra cried. Ophelia didn't." %}
 {% assign photographer = "Meghan Hess" %}
 {% include timeline-pictures %}
 
-{% assign imagepath = "/img/collage/small/programme.JPG" %}
+{% assign imagepath = "/img/collage/small/programme.jpg" %}
 {% assign imagecaption = "For more info, consult the program." %}
 {% assign photographer = "Meghan Hess" %}
 {% include timeline-pictures %}
@@ -248,23 +248,23 @@ extra_js:
 {% assign photographer = "Lauren Shay Lavin" %}
 {% include timeline-pictures %}
 
-{% assign imagepath = "/img/collage/small/gibjoseph.JPG" %}
+{% assign imagepath = "/img/collage/small/gibjoseph.jpg" %}
 {% assign imagecaption = "Joseph explains, to Gib's astonishment, that he got here from Australia. In like, a plane." %}
 {% assign photographer = "Meghan Hess" %}
 {% include timeline-pictures %}
 
-{% assign imagepath = "/img/collage/small/inflight.JPG" %}
+{% assign imagepath = "/img/collage/small/inflight.jpg" %}
 {% assign imagecaption = "At some point, this table was clean. It must be out of place in the timeline." %}
 {% assign photographer = "Meghan Hess" %}
 {% include timeline-pictures %}
 
-{% assign imagepath = "/img/collage/small/jonoor.JPG" %}
+{% assign imagepath = "/img/collage/small/jonoor.jpg" %}
 {% assign imagecaption = "Some wonderful person brought the bride a cup of tea." %}
 {% assign photographer = "Meghan Hess" %}
 {% include timeline-pictures %}
 
 
-{% assign imagepath = "/img/collage/small/edinburgh.JPG" %}
+{% assign imagepath = "/img/collage/small/edinburgh.jpg" %}
 {% assign imagecaption = "Woo Edinburgh" %}
 {% assign photographer = "Meghan Hess" %}
 {% include timeline-pictures %}
@@ -279,27 +279,27 @@ extra_js:
 {% assign photographer = "Meghan Hess" %}
 {% include timeline-pictures %}
 
-{% assign imagepath = "/img/collage/small/speech1.JPG" %}
+{% assign imagepath = "/img/collage/small/speech1.jpg" %}
 {% assign imagecaption = "We endured some speeches." %}
 {% assign photographer = "Meghan Hess" %}
 {% include timeline-pictures %}
 
-{% assign imagepath = "/img/collage/small/speech2.JPG" %}
+{% assign imagepath = "/img/collage/small/speech2.jpg" %}
 {% assign imagecaption = "And some more speeches." %}
 {% assign photographer = "Meghan Hess" %}
 {% include timeline-pictures %}
 
-{% assign imagepath = "/img/collage/small/lights.JPG" %}
+{% assign imagepath = "/img/collage/small/lights.jpg" %}
 {% assign imagecaption = "And got silly again." %}
 {% assign photographer = "Lauren Shay Lavin" %}
 {% include timeline-pictures %}
 
-{% assign imagepath = "/img/collage/small/inappropriatelysmug.JPG" %}
+{% assign imagepath = "/img/collage/small/inappropriatelysmug.jpg" %}
 {% assign imagecaption = "Comment from Nick: 'Pff. Amateurs. This is how to be silly.'" %}
 {% assign photographer = "Meghan Hess" %}
 {% include timeline-pictures %}
 
-{% assign imagepath = "/img/collage/small/huddle.JPG" %}
+{% assign imagepath = "/img/collage/small/huddle.jpg" %}
 {% assign imagecaption = "Hemani hug selfies" %}
 {% assign photographer = "Meghan Hess" %}
 {% include timeline-pictures %}
@@ -309,17 +309,17 @@ extra_js:
 {% assign photographer = "Lauren Shay Lavin" %}
 {% include timeline-pictures %}
 
-{% assign imagepath = "/img/collage/small/valley.JPG" %}
+{% assign imagepath = "/img/collage/small/valley.jpg" %}
 {% assign imagecaption = "The next day lots of us all went out for a walk and picnic." %}
 {% assign photographer = "Meghan Hess" %}
 {% include timeline-pictures %}
 
-{% assign imagepath = "/img/collage/small/masud.JPG" %}
+{% assign imagepath = "/img/collage/small/masud.jpg" %}
 {% assign imagecaption = "Uncle Masud scans the horizon for shelter from the weather and from rampaging bulls." %}
 {% assign photographer = "Gib" %}
 {% include timeline-pictures %}
 
-{% assign imagepath = "/img/collage/small/cave.JPG" %}
+{% assign imagepath = "/img/collage/small/cave.jpg" %}
 {% assign imagecaption = "We found a cave." %}
 {% assign photographer = "Meghan Hess" %}
 {% include timeline-pictures %}

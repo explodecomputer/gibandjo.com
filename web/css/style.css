@@ -1,0 +1,395 @@
+@font-face {
+    font-family: 'Montserrat';
+    src: url(/fonts/Montserrat-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url(/fonts/Montserrat-Bold.ttf);
+    font-weight: bold;
+}
+
+@font-face {
+  font-family: 'Josefin Sans';
+  src: url(/fonts/JosefinSans-Regular.ttf);
+}
+
+@font-face {
+  font-family: 'Josefin Slab';
+  src: url(/fonts/JosefinSlab-Regular.ttf);
+}
+
+/* Custom container */
+
+/* Replaced with normal container and standard footer */
+/*.container-narrow {
+  margin: 0 auto;
+  max-width: 700px; }
+
+.container-narrow > hr {
+  margin: 30px 0; }
+*/
+
+/* Replaced with standard BS3 Navbar */
+.navbar .nav {
+  text-align: center;
+  font-family: sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  margin: 0 auto;
+  padding-bottom: 50px;
+}
+
+.navbar.center .navbar-inner {
+    text-align: center;
+}
+
+.navbar.center .navbar-inner .nav {
+    display:inline-block;
+    float: none;
+}
+
+/* Jekyll Bootstrap Colors */
+h1, h2, h3, h4, li, .accordianheader {
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+li {
+  font-size: 12px;
+}
+
+h1
+{
+  font-size: 20px;
+}
+
+h2
+{
+  font-size: 18px;
+}
+
+h3
+{
+  font-size: 13px;
+  margin-bottom: -10px;
+  color: #444;
+}
+
+p {
+  /*font-family: 'Noticia Text', serif;*/
+  color: #888;
+  font-family: serif;
+  line-height: 180%;
+}
+
+p a {
+  color: #000;
+  text-decoration: underline;
+}
+
+
+body {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+/* Custom container */
+.container {
+  margin: 0 auto;
+  /*max-width: 1000px;*/
+}
+.container > hr {
+  margin: 60px 0;
+}
+
+/* Main marketing message and sign up button */
+.jumbotron {
+  background-color: #ffffff;
+  margin: 0;
+  text-align: center;
+}
+.jumbotron h1 {
+  font-size: 100px;
+  line-height: 1;
+}
+.jumbotron .lead {
+  font-size: 24px;
+  line-height: 1.25;
+}
+.jumbotron .btn {
+  font-size: 21px;
+  padding: 14px 24px;
+}
+
+
+.navbar {
+  background-color: #ffffff;
+  background-image: none;
+  border: none;
+}
+
+
+.top-buffer { 
+  margin-top: 100px;
+}
+
+.bottom-buffer {
+  margin-bottom: 100px;
+}
+
+.btn-infosheet {
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 18px;
+  background: #333;
+  padding: 24px 24px 24px 24px;
+  text-decoration: none;
+  text-align: right;
+}
+
+.btn-infosheet:hover {
+  color: #ffffff;
+  background: #666;
+  text-decoration: none;
+}
+
+.span4 img {
+  margin: 0 auto;
+}
+
+
+.btn-menu {
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-family: 'Montserrat', sans-serif;
+  color: #666;
+  font-size: 12px;
+  background: #fff;
+  padding: 10px 10px 10px 10px;
+  text-decoration: none;
+  text-align: right;
+  border: none;
+}
+
+.btn-menu:hover {
+  color: #ffffff;
+  background: #666;
+  text-decoration: none;
+}
+
+.caption {
+  margin: 0px 0px 20px 0px;
+  font-size: 12px;
+  color: #000;
+}
+
+.righttext {
+  text-align: right;
+}
+
+.centertext {
+  text-align: center;
+}
+
+
+
+.accordion-group {
+  margin-bottom: 2px;
+/*  border: 1px solid #e5e5e5;
+  -webkit-border-radius: 4px;
+     -moz-border-radius: 4px;
+          border-radius: 4px;
+*/
+border: 0;
+}
+
+.accordion-heading {
+  border-bottom: 0;
+}
+
+.accordion-heading .accordion-toggle {
+  display: block;
+  padding: 8px 15px;
+}
+
+.accordion-toggle {
+  cursor: pointer;
+}
+
+.accordion-inner {
+  padding: 9px 15px;
+  border-top: 1px solid #e5e5e5;
+}
+
+.accordion .panel {
+  border-width: 10px;
+}
+.accordion-heading {
+  border-width: 10px;
+}
+
+
+.pageid {
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-family: 'Montserrat', sans-serif;
+  color: #aaaaaa;
+  border: solid 1px white;
+  text-align: center;
+  padding: 5px;
+
+}
+
+.pageid:hover {
+  background-color: #aaaaaa;
+  color: white;
+  text-decoration: none;
+}
+
+
+.pageid.active {
+  background-color: #aaaaaa;
+  color: white;
+
+}
+
+
+.btn-navbar {
+  color: #ffffff;
+  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+  background-color: #006dcc;
+  border-color: #0044cc;
+}
+
+.navbar .btn-navbar .icon-bar {
+  display: block;
+  width: 18px;
+  height: 2px;
+  background-color: black;
+  -webkit-border-radius: 1px;
+     -moz-border-radius: 1px;
+          border-radius: 1px;
+  -webkit-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.25);
+     -moz-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.25);
+          box-shadow: 0 1px 0 rgba(0, 0, 0, 0.25);
+}
+
+
+.advice .cd-timeline-content {
+  background-color: #F0D8A8;
+}
+
+.advice .cd-timeline-content p {
+  font-family: 'Josefin Slab';
+  font-weight: bold;
+  font-size: 30px;
+  color: #3D1C00;
+}
+
+.advice .cd-timeline-img.cd-location {
+  background: #86B8B1;
+}
+
+.adviceintro {
+  font-size: 30px;
+}
+
+.photospage .cd-timeline-content {
+  background-color: #FEF9F0;
+}
+
+.photospage .cd-timeline-content p {
+  font-family: 'Josefin Slab';
+  font-weight: bold;
+  font-size: 20px;
+  color: #304B69;
+}
+
+.photospage .cd-timeline-img.cd-location {
+  background: #FFB366;
+}
+
+.photospage .cd-timeline-img.cd-picture {
+  background: #304B69;
+}
+
+.adviceintro {
+  font-size: 30px;
+}
+
+.thanks0, .thanks1, .thanks2, .thanks3, .thanks4 {
+  font-family: 'Josefin Slab';
+  font-weight: bold;
+  font-size: 20px;
+  opacity: 1;
+}
+
+.thanksname1, .thanksname2, .thanksname3, .thanksname4 {
+  font-family: 'Josefin Slab';
+  font-weight: bold;
+  font-size: 20px;
+  opacity: 1;
+}
+
+.thanksname1, .thanksname2, .thanksname3, .thanksname4 {
+  color: white;
+}
+
+.thanks0 {
+  color: #1693A5;
+}
+
+.thanks1 {
+  color: #741952;
+}
+
+.thanks2 {
+  color: #fe3174;
+}
+
+.thanks3 {
+  color: #f1c15d;
+}
+
+.thanks4 {
+  color: #09a3ad;
+}
+
+.thanks1:hover, .thanks2:hover, .thanks3:hover, .thanks4:hover {
+  opacity: 1;
+}
+
+.thanksname1 {
+  background-color: #741952;
+}
+
+.thanksname2 {
+  background-color: #fe3174;
+}
+
+.thanksname3 {
+  background-color: #f1c15d;
+}
+
+.thanksname4 {
+  background-color: #09a3ad;
+}
+
+.credits h2 {
+  margin-bottom: 10px;
+  margin-top: 40px;
+  border: 1px solid gray;
+}
+
+li .active2 {
+  border: 1px solid gray;
+  /*border-radius: none;*/
+}
+
+li .inactive2 {
+  border: 1px solid white;
+}

@@ -2,4 +2,4 @@
 # a special deploy_dir variable specifies the deployment location using rsync
 
 baseurl: http://www.gibandjo.com/
-deploy_dir: root@explodecomputer.com:/var/www/gibandjo.com/public_html
+deploy_dir: root@gibandjo.com:/var/www/gibandjo.com/public_html
